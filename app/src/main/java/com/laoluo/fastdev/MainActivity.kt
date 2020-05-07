@@ -2,6 +2,7 @@ package com.laoluo.fastdev
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.laoluo.fastdev.aretrofit.ARetrofit
 
 class MainActivity : AppCompatActivity() {
 

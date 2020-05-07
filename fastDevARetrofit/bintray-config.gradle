@@ -6,7 +6,7 @@ ext {
 
     publishedGroupId = 'com.laoluo.fastdev'
     artifact = 'aretrofit'
-    libraryVersion = '1.0.1'
+    libraryVersion = '1.0.0'
 
     libraryName = 'aretrofit'
     libraryDescription = ''
