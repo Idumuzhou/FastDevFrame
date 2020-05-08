@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="com.laoluo.fastdev.aroutercalladapter" >
+    <application>
+        <activity android:name="com.laoluo.fastdev.aroutercalladapter.RxARouterActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+    </application>
+</manifest>

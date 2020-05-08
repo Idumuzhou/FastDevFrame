@@ -12,7 +12,20 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/fastDevARetrofit" />
+            <option value="$PROJECT_DIR$/fastDevARouterCallAdapter" />
+            <option value="$PROJECT_DIR$/fastDevARouterReflect" />
+            <option value="$PROJECT_DIR$/fastDevAutoBackup" />
+            <option value="$PROJECT_DIR$/fastDevComponent2" />
+            <option value="$PROJECT_DIR$/fastDevCore2" />
+            <option value="$PROJECT_DIR$/fastDevDiskLoggerHelp" />
+            <option value="$PROJECT_DIR$/fastDevImageLoader2" />
+            <option value="$PROJECT_DIR$/fastDevLocalRetrofit" />
+            <option value="$PROJECT_DIR$/fastDevLogEvent" />
+            <option value="$PROJECT_DIR$/fastDevMVVM2" />
+            <option value="$PROJECT_DIR$/fastDevMvp2" />
+            <option value="$PROJECT_DIR$/fastDevRxActivity" />
             <option value="$PROJECT_DIR$/fastDevShapeWidget" />
+            <option value="$PROJECT_DIR$/fastExtKt2" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,3 +1,17 @@
 rootProject.name='FastDevFrame'
-include ':app', ':fastDevARetrofit'
-include ':fastDevShapeWidget'
+include ':app',
+        ':fastDevARetrofit',
+        ':fastDevCore2',
+        ':fastDevImageLoader2',
+        ':fastDevLocalRetrofit',
+        ':fastDevLogEvent',
+        ':fastDevShapeWidget',
+        ':fastDevRxActivity',
+        ':fastDevARouterCallAdapter',
+        ':fastDevARouterReflect',
+        ':fastDevAutoBackup',
+        ':fastDevComponent2',
+        ':fastDevDiskLoggerHelp',
+        ':fastDevMvp2',
+        ':fastExtKt2',
+        ':fastDevMVVM2'

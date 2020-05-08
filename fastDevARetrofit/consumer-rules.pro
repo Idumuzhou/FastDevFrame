@@ -1,2 +1,2 @@
--dontwarn com.laotang.quickdev.aretrofit.**
--keep class com.laotang.quickdev.aretrofit.** { *; }
+-dontwarn com.laoluo.fastdev.aretrofit.**
+-keep class com.laoluo.fastdev.aretrofit.** { *; }

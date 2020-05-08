@@ -1,0 +1,1 @@
+-keep class com.laoluo.fastext.CryptoUtil{*;}
