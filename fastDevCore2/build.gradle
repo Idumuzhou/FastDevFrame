@@ -127,7 +127,7 @@ dependencies {
     api libs.koi_core
     api libs.koi_async
 
-    implementation libs.retrofit_url_manager
+    api libs.retrofit_url_manager
 
     api 'com.github.GrenderG:Toasty:1.4.0'
     api 'com.f2prateek.rx.preferences2:rx-preferences:2.0.0'
