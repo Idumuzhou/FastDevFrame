@@ -66,4 +66,4 @@ kapt {
     generateStubs = true
 }
 
-apply from: 'bintray-config.gradle'
+//apply from: 'bintray-config.gradle'

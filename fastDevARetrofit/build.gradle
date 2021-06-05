@@ -38,4 +38,4 @@ dependencies {
     compileOnly libs.annotations
 }
 
-apply from: 'bintray-config.gradle'
+//apply from: 'bintray-config.gradle'

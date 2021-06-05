@@ -139,7 +139,7 @@ dependencies {
     api 'com.laoluo.fastdev:eventsLogger:1.0.0'
 }
 
-ext {
+/*ext {
     //bintray 网站上你创建的仓库的名字（必配项）
     bintrayRepo = 'fastdev'
     //在这个仓库下的 package name（必配项）
@@ -284,4 +284,4 @@ bintray {
             }
         }
     }
-}
+}*/

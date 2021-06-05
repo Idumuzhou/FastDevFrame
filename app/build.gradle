@@ -47,5 +47,5 @@ dependencies {
     //implementation 'com.laoluo.fastdev:aretrofit:1.0.0'
 
     //implementation 'com.github.Idumuzhou:FastDevFrame:fastDevShapeWidget:1.0.0'
-    implementation 'com.github.Idumuzhou:FastDevFrame:shapeWidget:1.0.1'
+    implementation 'com.github.Idumuzhou:FastDevFrame:1.0.1'
 }
