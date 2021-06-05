@@ -43,6 +43,8 @@ dependencies {
 
 
     //implementation project(':fastDevShapeWidget')
-    implementation 'com.laoluo.fastdev:shapewidget:1.0.1'
+    //implementation 'com.laoluo.fastdev:shapewidget:1.0.1'
     //implementation 'com.laoluo.fastdev:aretrofit:1.0.0'
+
+    implementation 'com.github.Idumuzhou:FastDevFrame:fastDevShapeWidget:1.0.0'
 }
